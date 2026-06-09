@@ -2,7 +2,6 @@ import { useState, useRef } from 'react';
 import { Hero } from './components/Hero';
 import { DriveFileList } from './components/DriveFileList';
 import { DownloadSimulation } from './components/DownloadSimulation';
-import { SimpleComparison } from './components/SimpleComparison';
 import { Explanation } from './components/Explanation';
 import { TechFeatures } from './components/TechFeatures';
 import { Charts } from './components/Charts';
