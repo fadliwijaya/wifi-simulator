@@ -1,5 +1,5 @@
 import background3 from '../assets/Background3.png';
-import { Clock, ShieldCheck, Activity, BarChart2 } from 'lucide-react';
+import { Clock, ShieldCheck, BarChart2 } from 'lucide-react';
 
 export const Explanation = () => {
   return (
